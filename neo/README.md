@@ -39,5 +39,5 @@ Utilizar Imagenes entregadas por el cliente.
 
 Imagenes:
 
-![](neo/neo/im/computer.jpg)
-![](neo/neo/im/celular.jpg)
+![](im/computer.jpg)
+![](im/celular.jpg)
